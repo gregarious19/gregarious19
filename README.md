@@ -12,7 +12,7 @@ I'm currently working on fine tuning deep learning models and integration of LLM
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gregarious19&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gregarious19&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
