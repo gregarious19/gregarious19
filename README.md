@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on fine tuning deep learning models and integration of LLMs using langchain.
+I'm currently working on low-energy deep learning models and ODEs.
 
 
 ## 🌐 Socials:
